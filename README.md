@@ -13,4 +13,4 @@ Endless road &amp; cargo man
 
 * The main mechanic is holding your finger on the screen and changing the position of the player (in the car or above the car).
 * If the player is above the car, you can throw the cargo packages toward the houses which have white doors by touching the door of the house.
-* You can't move the car if the player above the car.
+* You can't move the car if the player is above the car.
